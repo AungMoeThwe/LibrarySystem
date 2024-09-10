@@ -1,0 +1,12 @@
+﻿  Book.cpp
+D:\Personal Projects\Core\LibrarySystem\prg\Book.cpp(69,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Date.cpp
+  LibApp.cpp
+  LibAppMain.cpp
+  Menu.cpp
+  Publication.cpp
+  PublicationSelector.cpp
+  Streamable.cpp
+  Utils.cpp
+  Generating Code...
+  ms5.vcxproj -> D:\Personal Projects\Core\LibrarySystem\prg\x64\Debug\ms5.exe
